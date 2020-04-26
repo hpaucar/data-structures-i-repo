@@ -29,6 +29,7 @@ int main() {
 	int val, option;
 	create_queue(q);
 	system("cls");
+
 	do {
 		printf("\n *****MAIN MENU*****");
 		printf("\n 1. INSERT");
