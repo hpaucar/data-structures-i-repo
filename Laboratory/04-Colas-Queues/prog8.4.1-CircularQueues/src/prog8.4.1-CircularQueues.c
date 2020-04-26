@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include <conio.h>
+#include <malloc.h>
 
 #define MAX 10
 int queue[MAX];

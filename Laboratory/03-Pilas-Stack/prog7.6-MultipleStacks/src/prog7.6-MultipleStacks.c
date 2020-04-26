@@ -10,6 +10,8 @@
 
 #include <stdio.h>
 #include <conio.h>
+#include <malloc.h>
+
 #define MAX 10
 
 int stack[MAX], topA = -1, topB = MAX;
