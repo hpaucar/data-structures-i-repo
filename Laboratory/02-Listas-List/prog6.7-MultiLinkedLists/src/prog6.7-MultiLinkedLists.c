@@ -2,7 +2,6 @@
  ============================================================================
  Name        : 7-MultiLinkedLists.c
  Author      : Herminio
- Version     :
  Copyright   : Your copyright notice
  Description : 6. Write a program to store a polynomial using linked list. Also, perform addition and
  subtraction on two polynomials.
